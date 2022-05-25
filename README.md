@@ -1,3 +1,12 @@
+<h1>Descripción</h1>
+
+<p>
+Este es un pequeño proyecto que se realizo con ayuda de un tutorial, este proyecto es basicamente un CRUD que nos ayuda a gestionar proyectos en un portafolio
+</p>
+
+
+
+<h1>Instalación y requerimientos</h1>
 Para poder ejecutar el proyecto se necesita: -> Algun servidor Apache con base de datos como XAMPP, Laragon, Lampp, etc. -> Composer
 
 1.- Se clona el proyecto en la carpeta del servidor apache <br>
